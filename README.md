@@ -6,7 +6,7 @@ Follow these steps:
 git clone https://github.com/lakshin7/lingual-verse-chat-frontend/
 
 # Step 2: Navigate to the project directory.
-cd lingual-verse-chat/)
+cd lingual-verse-chat-frontend/)
 
 # Step 3: Install the necessary dependencies.
 npm i
